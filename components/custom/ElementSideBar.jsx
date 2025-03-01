@@ -1,5 +1,5 @@
 "use client"
-import Layout from '@/Data/layout';
+import Layout from '@/Data/Layout';
 import React from 'react';
 import ElementLayoutCard from './ElementLayoutCard';
 import ElementList from '@/Data/ElementList';
